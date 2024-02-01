@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+
+body {
+    background-color: rgb(253, 238, 241);
+}
+
+.heading{
+    text-align: center;
+    font-size: 2rem;
+    padding: 20px;
+    color: hotpink;
+    font-family: "Dancing Script", cursive;
+}
+
+.main{
+    width: 600px;
+    height: 650px;
+    border: 1px solid hotpink;
+    margin: 2rem auto;
+
+}
+
+#valmistusaeg{
+    width: 60px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    margin: 2rem auto;
+    border: solid hotpink;
+}
+#kaik{
+    width: 60px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 20px;
+    margin: 1rem auto;
+    border: solid hotpink;
+}
+
+.pealkiri-koostisosad {
+    margin-left: 10px;
+    color: hotpink;
+    font-family: "Dancing Script", cursive;
+}
+
+.pealkiri-praadimiseks {
+    margin-left: 10px;
+    color: hotpink;
+    font-family: "Dancing Script", cursive;
+}
+
+.pealkiri-serveerimiseks {
+    margin-left: 10px;
+    color: hotpink;
+    font-family: "Dancing Script", cursive;
+
+}
+.pealkiri-valmistamine {
+    margin-left: 10px;
+    color: hotpink;
+    font-family: "Dancing Script", cursive;
+}
+.main hr {
+    color: hotpink;
+}
+
+.footer hr {
+    color: hotpink;
+}
+.footer{
+    text-align: center;
+}
